@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\andre\Desktop\作品\勇者鬥惡龍\勇者鬥惡龍\Source.cpp(124,10): warning C4101: 'prices': 未參考的區域變數
+C:\Users\andre\Desktop\作品\勇者鬥惡龍\勇者鬥惡龍\Source.cpp(175,10): warning C4101: 'prices': 未參考的區域變數
+  勇者鬥惡龍.vcxproj -> C:\Users\andre\Desktop\作品\勇者鬥惡龍\Debug\勇者鬥惡龍.exe
